@@ -1,5 +1,7 @@
 # runtime-governance-demo
 A Python state machine demo implementing runtime governance rails: signal (detect), slow (throttle), pause (hold), and refuse (halt). Each transition is ledgered with timestamped evidence, showing how custody checks enforce execution legitimacy.
+This demo is released under the BSD 3‑Clause License. It is provided for illustrative purposes only and does not represent production code. Attribution is required if reused or adapted
+
 # Signal → Slow → Pause → Refuse
 
 A Python state machine demo implementing runtime governance rails:
