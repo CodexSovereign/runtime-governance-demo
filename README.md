@@ -1,10 +1,8 @@
 <p align="center">
-  <img src="images/codex-sovereign-logo.png" alt="Codex Sovereign Logo" width="200"/>
+  <img width="226" height="222" alt="Tiny Emblem" src="https://github.com/user-attachments/assets/2ff48938-be5a-4638-86a8-68841761f122" />
+<p align="center"><b>Codex Sovereign™ LLC — Governance Anchored AI</b></p>
+
 </p>
-
-# runtime-governance-demo
-A Python state machine demo implementing runtime governance rails: signal (detect), slow (throttle), pause (hold), and refuse (halt). Each transition is ledgered with timestamped evidence, showing how custody checks enforce execution legitimacy.
-
 
 # runtime-governance-demo
 A Python state machine demo implementing runtime governance rails: signal (detect), slow (throttle), pause (hold), and refuse (halt). Each transition is ledgered with timestamped evidence, showing how custody checks enforce execution legitimacy.
