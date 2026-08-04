@@ -29,4 +29,4 @@ You are free to use, modify, and distribute this code, provided that:
 
 ## Attribution
 If you reuse or adapt this work, please credit:  
-**Kristi / Codex Sovereign™ — Runtime Governance Demo**  
+**Kristina Vayo / Codex Sovereign™ LLC — Runtime Governance Demo**  
