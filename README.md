@@ -25,7 +25,7 @@ This project is a **conceptual demonstration** of runtime governance. It illustr
 Released under the **BSD 3‑Clause License**.  
 You are free to use, modify, and distribute this code, provided that:  
 - Proper attribution is given to the original author.  
-- The name “Kristi / Codex Sovereign™” or project branding may not be used to endorse or promote derivative works without prior written permission.  
+- The name “Kristina Vayo / Codex Sovereign™ LLC” or project branding may not be used to endorse or promote derivative works without prior written permission.  
 - All rights remain with the original author.  
 
 ---
